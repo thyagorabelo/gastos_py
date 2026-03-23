@@ -1,6 +1,6 @@
 import os
 import webbrowser
-import html
+from modulos import html
 
 lista_de_arquivos = ["Janeiro.txt", "Fevereiro.txt", "Março.txt"]
 for fname in lista_de_arquivos:

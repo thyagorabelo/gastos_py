@@ -1,7 +1,0 @@
-Carro: 1270,00
-Aluguel: 550,00
-Mercado: 500,00
-Energia: 202,00
-Gás: 23,00
-Seguro do Carro: 192,00
-
